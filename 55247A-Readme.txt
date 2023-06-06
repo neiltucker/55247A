@@ -1,5 +1,10 @@
 *****   55247A-Readme.txt   *****                                                                 					*****
+Designing and Implementing Cloud Data Platform Solutions
 
+Updates:
+Setup Files: https://github.com/neiltucker/55247A
+Printed Courseware: http://www.neiltucker.com
+Online Courseware: http://www.softwaretutorialservices.com
 
 
 *****   Class Delivery   ***** 
@@ -11,5 +16,4 @@ Licensing:
 The training center or any organization hosting the lab computers for this class are fully responsible for the licensing of all software used in the course and labs. 
 An Azure deployment of the class may make this process easier.
 
-Updates:
-Updates to class files can be found on GitHub (https://github.com/neiltucker/55247A). 
+ 
